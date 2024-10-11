@@ -1,0 +1,31 @@
+# General purpose libraries
+numpy         # For any numerical operations (if needed)
+pandas          # For handling CSV files and data management
+
+# Web automation and interaction
+selenium      # For automating the login and posting process on platforms
+
+# Logging
+loguru         # For advanced logging functionality (optional, can use Python's built-in logging)
+
+# JSON handling
+simplejson    # For reading and writing JSON files (built-in json library is usually enough, this is an alternative)
+
+# Date and Time management
+python-dateutil # For handling time-related operations
+
+# HTTP requests (if needed for API interactions)
+requests       # For making HTTP requests to web services (if applicable)
+
+# Environment variables
+python-dotenv  # For loading environment variables from a .env file
+
+# # eexceptions
+# exceptions     # For handling exceptions in a more structured way
+
+# GUI automation
+pyautogui       # For automating GUI interactions (optional, can use other libraries like selenium)
+
+keyboard        # For simulating keyboard inputs (optional, can use other libraries like selenium)
+
+pygetwindow    # For getting information about windows and controlling them
